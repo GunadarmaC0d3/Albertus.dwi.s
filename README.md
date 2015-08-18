@@ -1,2 +1,2 @@
 # Albertus.dwi.s
-test
+"Ora et Labora"
